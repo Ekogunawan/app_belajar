@@ -73,11 +73,11 @@ class MyApp extends StatelessWidget {
     );
 
     return MaterialApp(
-      title: 'Flutter layout Lake Bagas',
+      title: 'Flutter layout Lake EKO',
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Flutter layout Lake Bagas'),
+          title: Text('Flutter layout Lake EKO'),
         ),
         body: ListView(
           children: [
